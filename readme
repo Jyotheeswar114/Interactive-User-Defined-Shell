@@ -1,0 +1,14 @@
+2019101099
+Jyotheeswar
+
+We should enter these commands to run the shell.
+1. ./jyo.sh
+2. make
+3. ./shell
+
+pinfo.c - printing process info
+prompt.c - printing prompt
+sleep.c - for checking purpose 
+main.c - main file to run. it has main code
+parse - parsing the commands
+
